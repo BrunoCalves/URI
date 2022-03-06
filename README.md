@@ -6,4 +6,4 @@ Serão usados exerciciios disponibilizados no Uri Judge Online (Beecrowd).<br>
 Os repósitorios estarão organizados de acordo com os níveis de habilidade do URI.<br>
 
 
-- <a href="">Iniciante</a>
+- <a href="https://github.com/BrunoCalves/URI/tree/master/Iniciante">Iniciante</a>
